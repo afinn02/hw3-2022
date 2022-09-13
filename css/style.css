@@ -118,11 +118,18 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0
     border-color: #ffffff;
     font-size: 20px;
     text-align: right;
+    
+}
+
+footer p{
+    padding: none;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
-
+    padding-left: 0;
 }
+
+
 
 
 
